@@ -74,9 +74,9 @@ https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-5-multi-s
 
 ---
 
-## 👛 Diamond Crowdfund Challenge
+## 💎 Diamond Crowdfund Challenge
 
-👩‍👩‍👧‍👧 Crowdfunding contracts have different features and there are many implementations out there, in this Challenge you will write your own Crowdfunding system using diamonds. The Diamond standard (EIP-2535) makes it easy to modularize and efficiently upgrade and manage your smart contracts. We will learn about it in this challenge
+💸 Crowdfunding contracts have different features and there are many implementations out there, in this challenge you will write your own crowdfunding system using the diamond standard. [EIP-2535](https://eips.ethereum.org/EIPS/eip-2535) makes it easy to modularize, upgrade and manage your smart contracts. We will learn about it in this challenge
 
 Diamond Challenge Telegram Channel: **TODO**
 
